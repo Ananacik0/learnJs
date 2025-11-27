@@ -1,0 +1,17 @@
+/* add text style list for google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playwrite+US+Trad+Guides&display=swap');
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    list-style-type: none;
+    font-style: normal;
+    border: 0;
+    border-radius: 0;
+    font-family: "Oswald", sans-serif;
+    box-sizing: border-box;
+    outline: 0;
+    font-size: 16px;
+    text-decoration: none;
+}
